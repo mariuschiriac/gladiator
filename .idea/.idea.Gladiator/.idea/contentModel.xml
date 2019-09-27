@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\marius\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\marius\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Gladiator.47394178.00" t="ExcludeRecursive" />
+    <e p="D:\Repo\Gladiator" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Character.cs" t="Include" />
+          <e p="CharacterStat.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="Gladiator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Gladiator.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
